@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me this is my mail id kumariashwini912@gmail.com
+- 📫 Contact Me kumariashwini912@gmail.com
 
 <!---
 ashwini099/ashwini099 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
