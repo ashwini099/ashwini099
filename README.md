@@ -9,4 +9,4 @@ ashwini099/ashwini099 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 :v: I got these badges in Hacktoberfest.
-[![@ashwini099's Holopin board](https://holopin.me/ashwini099)](https://holopin.io/@ashwini099)
+(https://holopin.me/ashwini099)](https://holopin.io/@ashwini099)
