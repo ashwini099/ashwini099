@@ -24,13 +24,16 @@ You can click the Preview link to take a look at your changes.
 
 
 
-## :handshake:Skills ##
+## ::blue_book:Skills ##
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
-
+## ::blue_book:Tools & Technologies ##
 
 
 ## :handshake:Connect ##
-<a href="linkedin.com/in/kumari-ashwini"><img src="https://img.shields.io/badge/LinkedIn-0077B5?linkedin.com/in/kumari-ashwinistyle=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?linkedin.com/in/kumari-ashwinistyle=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
