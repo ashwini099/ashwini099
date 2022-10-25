@@ -23,8 +23,8 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
 ## :handshake:Connect ##
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?linkedin.com/in/kumari-ashwinistyle=for-the-badge&logo=linkedin&logoColor=white"/>](https://stackoverflow.com/questions/61071158/add-image-with-link-in-githubs-readme-md#:~:text=The%20code%3A%20%5B%3Cimg%20src,when%20the%20image%20is%20clicked.)
-<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?linkedin.com/in/kumari-ashwinistyle=for-the-badge&logo=linkedin&logoColor=white"/>](linkedin.com/in/kumari-ashwini)
+[<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/kumariashwini912)
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/ashwini099)
 
 
