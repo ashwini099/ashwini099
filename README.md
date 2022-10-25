@@ -33,4 +33,4 @@ You can click the Preview link to take a look at your changes.
 
 
 ## :handshake:Connect ##
-<a href="linkedin.com/in/kumari-ashwini"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="linkedin.com/in/kumari-ashwini"><img src="https://img.shields.io/badge/LinkedIn-0077B5?linkedin.com/in/kumari-ashwinistyle=for-the-badge&logo=linkedin&logoColor=white"/></a>
