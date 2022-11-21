@@ -4,10 +4,10 @@
 
 
 ## About Me ##
-* 📘 I'm currently in Final year of B.TECH(C.S)
-* 👀 I’m interested in web development</p> 
-* 🌱 I’m currently learning java
-* 📫 Contact Me kumariashwini912@gmail.com
+* 📘 I'm currently in Final year of B.TECH(C.S).
+* 👀 I’m interested in web development.
+* 🌱 I’m currently learning java.
+* 📫 Contact Me kumariashwini912@gmail.com.
 
 <!---
 ashwini099/ashwini099 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
