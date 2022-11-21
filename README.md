@@ -7,7 +7,6 @@
 * 📘 I'm currently in Final year of B.TECH(C.S)
 * 👀 I’m interested in web development</p> 
 * 🌱 I’m currently learning java
-* 💞️ I’m looking to collaborate on ...
 * 📫 Contact Me kumariashwini912@gmail.com
 
 <!---
