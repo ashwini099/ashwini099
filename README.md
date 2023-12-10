@@ -20,8 +20,8 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/JavaS-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&"/>
+
+
 ## :handshake:Connect ##
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?linkedin.com/in/kumari-ashwinistyle=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/kumari-ashwini/)
 [<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/kumariashwini912)
