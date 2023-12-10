@@ -4,9 +4,9 @@
 
 
 ## About Me ##
-* 📘 I'm currently in Final year of B.TECH(C.S).
-* 👀 I’m interested in web development.
-* 🌱 I’m currently learning java.
+* 🎓 I'm a fresher graduate in BTECH(C.S)
+* 👀 I’m interested in web development Job.
+* 🌱 I’m currently learning React.js.
 * 📫 Contact Me kumariashwini912@gmail.com.
 
 <!---
